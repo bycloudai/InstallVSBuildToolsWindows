@@ -1,4 +1,4 @@
-# Install VS Microsoft C++ Building Tools on Windows
+# How To Install VS Microsoft C++ Building Tools on Windows
 This can be used for installing anything that requires C++ compiler on Windows. 
 
 ## Installation steps
